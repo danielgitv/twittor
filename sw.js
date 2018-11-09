@@ -8,7 +8,7 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 
 // shell = cascara
 const APP_SHELL = [ // es im arreglo
-    '/',
+    //'/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
